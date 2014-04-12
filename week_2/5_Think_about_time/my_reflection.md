@@ -18,7 +18,7 @@
 *   for a brisk walk, I'll likely be able to get back on task. I need to be better about taking breaks so I can avoid
 *   burn-out. I also want to approach the weekly assignments in order. I've make the mistake of jumping around from 
 *   assignment to assignment working on several a little at a time and it's really inefficient to handle work loads 
-*   like that. I get an over all sense that I'm not focused and it's hard to remember where I left off on a given 
+*   like that. I get an overall sense that I'm not focused and it's hard to remember where I left off on a given 
 *   assignment, too. I want to do things in order. This will probably help me not procrastinate. I'll know I can't 
 *   put the assignment off just so I can play around with something else for a while. 
 * What is your overall plan for Phase 0?
@@ -29,4 +29,6 @@
 *   challenges. The second most important part would be to attend office hours as much as possible. That really 
 *   seems to help solidify things for me. I also want to spend as much time as I can talking to my pairs about the 
 *   week's challenges. Even if we've both already worked on and completed a given challenge seperately , I think 
-*   sometimes just talking about the paths we each took to arrive at a solution can be very helpful. 
+*   sometimes just talking about the paths we each took to arrive at a solution can be very helpful. I also really 
+*   want to swap my current desk chair out for a stability ball or maybe even try moving my computer to a high 
+*   counter top so I can stand while I work. All this sitting has my lower back aching like crazy lately. 
