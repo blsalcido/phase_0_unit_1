@@ -1,1 +1,53 @@
 /* include your css here */
+
+<style>
+        body{
+            background-image: url('http://colourlovers.com.s3.amazonaws.com/images/patterns/2384/2384692.png');
+            color: #59524B;
+        }
+    
+        header{
+           text-align:center;
+           height: 70px;
+           background-color: #BEAE8F;
+        }
+        
+        h1{
+            display: block;
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        
+        h2{
+            
+        }
+        
+        p{
+            
+        }
+        
+        #kir{
+           float: left; 
+        }
+        
+        #bridgette{
+            float: right;
+        }
+        
+        img{
+            height: auto;
+            width: 100px;
+            border-radius: 50%;
+            border: .2em solid #5EA1A6;
+        }
+        
+        section{
+            background-color: #FDF2CC;
+            width: 80%;
+            border-left: .2em solid #5EA1A6;
+            border-right: .2em solid #5EA1A6;
+            border-bottom: .2em solid #5EA1A6;
+            margin: 0em auto;
+            padding: 1em;
+        }
+    </style>
