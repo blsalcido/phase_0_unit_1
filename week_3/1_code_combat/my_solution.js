@@ -167,6 +167,28 @@
 // this.attackXY(45,51);
  
 
- 
+// What is this referring to? Think programming-wise rather than in the terms of the game.
+
+//This is referring to the object name
+
+// What does the () do in JavaScript?
+
+// () holds value arguments that are passed in as parameters
+
+// What is the point of the semicolons?
+
+//  To separate statements 
+
+
 // Reflection:
 // Write your reflection here.
+
+// This was a lot of fun. I really wish we had this program back in middle school. 
+// I loved the epic music on code combat and the entire exercise felt more like 
+// I was playing around than doing an assignment, even in spite of having learned
+// a thing or two. I'm confused about the Taunt the Guards exercise. I don't know 
+// why I had to say attack and attackNearByEnemy twice in order for the code to 
+// pass. It wouldn't work otherwise - I tried several other solutions. I was really 
+// not looking forward to getting started on work today so, this was a really nice, 
+// lively change of pace and exactly what I needed to break up the normal experience 
+// of completing DBC challenges. 
