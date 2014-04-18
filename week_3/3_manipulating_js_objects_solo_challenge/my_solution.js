@@ -68,11 +68,28 @@ adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
-// 
-// 
+// When I initially attempted this exercise, I misunderstood the directions 
+// and started to make new object blocks for terah and adam. I kept getting 
+// an error where terah spouse = adam. I couldn't fix it, couldn't fix it 
+// until finally it occurred to me to write the solution as shown above. Once
+// I figured that part out, the rest was painless. Now that I look at it, in
+// fact, I could refactor this code to: 
+
+// var adam = { //removed name property from this object and wrote it in with the rest of the code.
+// }; 
+// adam.name = "Adam";
+// terah.spouse = adam;
+// terah.weight = 125;
+// delete terah.eyeColor;
+// adam.spouse = terah;
+// terah.children; 
+// terah.children = {};
+// terah.children.carson = {name:  "Carson"};
+// terah.children.carter = {name:  "Carter"};
+// terah.children.colton = {name:  "Colton"};
+// adam.children = terah.children;
+
+// I think this would probably be better practice. An "aha" moment :) 
 
 
 // __________________________________________
